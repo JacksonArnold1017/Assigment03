@@ -1,3 +1,13 @@
 h1{
-    
+    text-align: center;
+}
+.undertitle {
+    text-align: center;
+    font-size: smaller;
+    color: red;
+}
+
+.header2{
+    color: royalblue;
+    font-family: inherit;
 }
